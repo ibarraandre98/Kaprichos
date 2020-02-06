@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaprichos", "Kaprichos\Kaprichos.csproj", "{656D3F0B-83E7-4AD8-80ED-2995E9A9ED70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaConexión", "CapaConexión\CapaConexión.csproj", "{CC87B268-8ECC-436E-989E-5AC9DA377BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656D3F0B-83E7-4AD8-80ED-2995E9A9ED70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656D3F0B-83E7-4AD8-80ED-2995E9A9ED70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656D3F0B-83E7-4AD8-80ED-2995E9A9ED70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656D3F0B-83E7-4AD8-80ED-2995E9A9ED70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC87B268-8ECC-436E-989E-5AC9DA377BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC87B268-8ECC-436E-989E-5AC9DA377BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC87B268-8ECC-436E-989E-5AC9DA377BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC87B268-8ECC-436E-989E-5AC9DA377BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4973923-5AA6-40A5-84B7-EA26CEF02540}
+	EndGlobalSection
+EndGlobal

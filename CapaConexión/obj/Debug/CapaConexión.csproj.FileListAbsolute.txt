@@ -1,0 +1,6 @@
+C:\Users\Muski\source\repos\Kaprichos\CapaConexión\bin\Debug\CapaConexión.dll
+C:\Users\Muski\source\repos\Kaprichos\CapaConexión\bin\Debug\CapaConexión.pdb
+C:\Users\Muski\source\repos\Kaprichos\CapaConexión\obj\Debug\CapaConexión.csprojAssemblyReference.cache
+C:\Users\Muski\source\repos\Kaprichos\CapaConexión\obj\Debug\CapaConexión.csproj.CoreCompileInputs.cache
+C:\Users\Muski\source\repos\Kaprichos\CapaConexión\obj\Debug\CapaConexión.dll
+C:\Users\Muski\source\repos\Kaprichos\CapaConexión\obj\Debug\CapaConexión.pdb
